@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">ProjectMobile</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="account">Account</string>
+    <string name="name_moview">Nama Flim</string>
+    <string name="deskription">Deskripsi</string>
+    <string name="tahun">Tahun</string>
+    <string-array name="data_name">
+        <item>Catatn harian menantu sinting</item>
+        <item>Sekawan limo</item>
+        <item>Ipar adalah maut</item>
+        <item>Flash</item>
+        <item>The cursed land</item>
+        <item>The spellbound</item>
+        <item>Gtmax</item>
+        <item>Takluk lahad datu</item>
+        <item>When the phone rings</item>
+        <item>The story of pearl girl</item>
+    </string-array>
+    <string-array name="data_deskription">
+        <item>
+            Kehidupan pasangan baru Minar (Ariel Tatum) dan Sahat (Raditya Dika) yang baru
+            menikah dan tinggal bersama ibu Sahat yang dominan. Konflik muncul ketika ibunya
+            mendesak mereka untuk segera memiliki anak laki-laki. Meskipun berusaha menikmati
+            hidup pernikahan, banyak hal lucu dan penuh drama yang terjadi karena adanya
+            perbedaan budaya Batak dan tuntutan ibu mertua.
+        </item>
+        <item>
+            Film ini menggabungkan elemen horor dan komedi, mengikuti empat sahabat yang terjebak
+            dalam kejadian mistis yang menegangkan namun dibalut dengan humor
+        </item>
+        <item>
+            Film ini bercerita tentang hubungan tegang antara dua saudara ipar yang saling bersaing.
+            Konflik ini berkembang menjadi permasalahan serius yang melibatkan keluarga
+        </item>
+        <item>
+            Film ini berfokus pada karakter Barry Allen (The Flash) yang harus menghadapi
+            tantangan besar ketika berusaha menyelamatkan dunia dari ancaman yang dapat
+            merusak aliran waktu dan masa depan
+        </item>
+        <item>
+            Sebuah film horor yang mengikuti kisah kelam sebuah desa yang dihantui oleh
+            kekuatan mistis. Para karakter utama berusaha mengungkap misteri yang ada
+            untuk bisa menyelamatkan diri dari kutukan yang mengancam
+        </item>
+        <item>
+            Drama musikal yang mengisahkan petualangan anak-anak yang menemukan dunia magis di
+            balik sebuah buku ajaib, sambil belajar tentang keberanian dan persahabatan
+        </item>
+        <item>
+            Drama kriminal yang menceritakan perjalanan seorang detektif dalam memecahkan kasus
+            pembunuhan yang kompleks, mengungkap konspirasi besar yang berakar pada kekuasaan
+            dan korupsi
+        </item>
+        <item>
+            Film ini berdasarkan peristiwa nyata tentang operasi militer Malaysia di Lahad Datu,
+            Sabah, menghadapi ancaman dari kelompok bersenjata. Fokus pada perjuangan para tentara
+            dan pengorbanan mereka dalam mempertahankan kedaulatan negara
+        </item>
+        <item>
+            Baek Sa Eon, seorang juru bicara presiden termuda di Korea Selatan. Sebelumnya,
+            ia pernah bekerja sebagai koresponden perang, negosiator sandera, dan penyiar
+            berita utama. Di balik kesuksesan kariernya, Baek Sa Eon terjebak dalam pernikahan
+            pura-pura dengan Hong Hui Ju, seorang penerjemah bahasa isyarat yang mengalami mutisme
+            akibat kecelakaan masa kecil. Selama tiga tahun, mereka menjalani hubungan tanpa
+            komunikasi dan penuh kepura-puraan.
+        </item>
+        <item>
+            Perjalanan Duan Wu, seorang penyelam mutiara dari Hepu. Ia bertemu dengan Yan Zi Jing,
+            seorang pengusaha dari Xiyu, dan Zhang Jin Ran , seorang pria sederhana. Kisahnya
+            dimulai ketika Duan Wu bergabung dengan kelompok Yan Zi Jing dan memulai perjalanan
+            ke dunia perhiasan yang penuh perjuangan.
+        </item>
+    </string-array>
+    <string-array name="data_tahun">
+        <item>
+            Indonesia,Drama komedi, 2024
+        </item>
+        <item>
+            Indonesia, Drama, 2024
+        </item>
+        <item>
+            Amerika, Fiksi ilmiah, 2024
+        </item>
+        <item>
+            Thailand, Horror, 2024
+        </item>
+        <item>
+            Drama musikal anak-anak, 2024
+        </item>
+        <item>
+            Prancis, Drama kriminal, 2024
+        </item>
+        <item>
+            Malaysia, Drama militer, 2024
+        </item>
+        <item>
+            Korea, Drama, eps 2024
+        </item>
+        <item>
+            Tiongkok, Drama, 40 eps, 2024
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/catatan</item>
+        <item>@drawable/sekawan</item>
+        <item>@drawable/ipar</item>
+        <item>@drawable/flash</item>
+        <item>@drawable/thecursed</item>
+        <item>@drawable/thespellbound</item>
+        <item>@drawable/gtmax</item>
+        <item>@drawable/takluk</item>
+        <item>@drawable/when</item>
+        <item>@drawable/thestory</item>
+    </integer-array>
+</resources>
